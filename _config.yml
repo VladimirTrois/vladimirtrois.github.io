@@ -1,6 +1,6 @@
 # main text of home
 title: Vladimir Trois
-bio: Software Engineer
+bio: Développeur FullStack
 
 # twitter summary info
 description: Presentation
@@ -44,15 +44,9 @@ email: vladimir.trois@gmail.com
 authors:
   vladimir:
     name: Vladimir Trois
-    bio: Software Engineer
+    bio: Développeur FullStack
     external-image: false
     picture: assets/images/profile.jpg
-  # jamesfoster:
-  #   name: James Foster
-  #   bio: A Man who develops software with coffee
-  #   external-image: false
-  #   picture: assets/images/james.jpg
-  #   twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

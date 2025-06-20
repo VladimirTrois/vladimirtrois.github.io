@@ -1,5 +1,5 @@
 ---
-title: "Site de commande de pain"
+title: Site de commande de pain
 layout: post
 date: 2025-01-01 00:00
 image: /assets/images/markdown.jpg
