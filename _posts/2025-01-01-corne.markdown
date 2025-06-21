@@ -1,0 +1,103 @@
+---
+title: Clavier Corne
+layout: post
+date: 2025-01-01 00:00
+image: /assets/images/corne.jpg
+headerImage: false
+projects: Corne
+tag:
+hidden: false
+category: blog
+author: vladimir trois
+description: Création d'un site de gestion de produits
+---
+
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="{{ site.url }}/assets/images/corne.jpg" alt="Photo du clavier corne">
+        <figcaption class="caption">Créer par Florian Trois</figcaption>
+    </div>
+
+    <div class="toright">
+        <p>Après avois beaucoup utiliser un clavier <a href="https://fr.wikipedia.org/wiki/TypeMatrix" target="_blank">TypeMatrix</a> j'ai décidé pour 2025 de pousser pour un split keyboard.</p>
+        <p>C'est donc un Corne qui m'accompagne, réalisation maison par Florian Trois. Ce clavier est entièrement customisable et je souhaite partager ici ma configuration et mon évolution.</p>
+    </div>
+</div>
+
+---
+
+# Description
+
+Le clavier est un 6x3 touches + 6 touches de pouce + 2 encodeurs rotatifs.
+
+L'objectif est d'améliorer la rapidité et le confort en ne déplaçant que très peu les poignets et en évitant les mouvements éloignés le plus possible. (Bien évidemment, la configuration dépend aussi du plaisir de son utilisateur.)
+
+La disposition principale est BÉPO conçue pour la langue française (équivalent anglais: DVORAK).
+
+Ce clavier fonctionne avec différents layout accessibles en fonction des touches maintenues qui sont le plus souvent les touches accessibles lors de la position au repos :
+
+<img class="image" src="{{ site.url }}/assets/images/corne/corne-position-repos-cropped.jpg" alt="Photo du clavier corne au repos">
+<figcaption class="caption">Position des mains au repos</figcaption>
+
+Les pouces et les index sont principalement utilisés.
+ 
+# V1
+
+J'ai utilisé la V1 pendant environ 6 mois. Elle m'a permis d'apprendre la disposition BÉPO et de m'habituer à l'utilisation des différents layouts.
+
+### Disposition 
+
+<div class="side-by-side">
+    <div class="toleft">
+        <a href="https://www.keyboard-layout-editor.com/#/gists/8fd687f396e1992058c0c920122a8775" target="_blank"> <img class="image" src="{{ site.url }}/assets/images/corne/cornev1-gauche.png" alt="V1 gauche"> </a>
+        <figcaption class="caption">Main gauche</figcaption>
+    </div>
+
+    <div class="toright">
+        <a href="https://www.keyboard-layout-editor.com/#/gists/8fd687f396e1992058c0c920122a8775" target="_blank"> <img class="image" src="{{ site.url }}/assets/images/corne/cornev1-droit.png" alt="V1 droit"> </a>
+        <figcaption class="caption">Main droite</figcaption>
+    </div>
+</div>
+
+| Layout                   |   | Utilisation                                |
+|:-------------------------|---|:-------------------------------------------|
+| **Défault**              |   | Disposition BÉPO                           |
+| **Lower (Pouce Gauche)** |   | undo/redo cut/copy/paste et navigation     |
+| **Raise (Pouce Droit)**  |   | chiffres, F1->F10 et music                 |
+| **NUM  (Index Gauche)**  |   | clavier numérique et symboles mathématique |
+| **DEV (Index Droit)**    |   | Touches programmation comme [](){}<>/\«»$  |
+
+
+### Remarques
+
+Après quelques mois, j'ai noté différents points à régler.
+
+- La navigation se fait à deux mains (pouce gauche + main droite), je souhaite utiliser une seule main.
+- Les touches F1-F10 sont accessibles à deux mains (pouce droit + main gauche), idem, je veux une seule main.
+- Je n'utilise quasiment pas le clavier numérique pour les chiffres, car je préfère les chiffres via Raise Layout cependant, l'activation du Raise Layout ne permet pas le backspace facilement, car c'est la même touche.
+- Je souhaite pouvoir backspace et supp de la main gauche seule.
+
+# V2
+
+Pour la V2, j'ai rajouté un layout en plus, accessible via le pouce gauche touche gauche (touche GUI) où j'ai mis l'accès F1->F10. Cela m'a permis de libérer de la place pour les chiffres main gauche du Raise layout et donc de la place main droite pour la navigation. 
+
+J'ai aussi fait quelques petites modifications pour obtenir quelque chose qui me plaît, je vais aussi tenter de beaucoup plus utilisé le pad numérique.
+
+<div class="side-by-side">
+    <div class="toleft">
+        <a href="https://www.keyboard-layout-editor.com/#/gists/8fd687f396e1992058c0c920122a8775" target="_blank"> <img class="image" src="{{ site.url }}/assets/images/corne/cornev2-gauche.png" alt="V2 gauche"> </a>
+        <figcaption class="caption">Main gauche</figcaption>
+    </div>
+
+    <div class="toright">
+        <a href="https://www.keyboard-layout-editor.com/#/gists/8fd687f396e1992058c0c920122a8775" target="_blank"> <img class="image" src="{{ site.url }}/assets/images/corne/cornev2-droit.png" alt="V2 droit"> </a>
+        <figcaption class="caption">Main droite</figcaption>
+    </div>
+</div>
+
+- ✓ Navigation possible à une seule main.
+- ✓ Touches F1-F10 accessibles a une main.
+- ✓ Je peux mieux utiliser les chiffres et la suppression en même temps.
+- ✓ Je peux backspace et supp de la main gauche unquement.
+
+Alors certes, il y a sûrement mieux et plus optimisé. Pour le moment, cela me convient et je sais que j'ai des redondances qui pourront être enlevé pour mettre d'autres choses.

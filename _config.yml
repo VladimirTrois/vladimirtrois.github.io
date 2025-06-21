@@ -9,6 +9,7 @@ description: Presentation
 # better with square images
 external-image: false
 picture: assets/images/profile.jpg
+corne: assets/images/corne.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -18,7 +19,7 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/file/d/1AZIKbE8sE_60FBtm1B68OcmJLSTGJrW9/view?usp=sharing
 
 url: https://vladimirtrois.github.io
 # your url: https://USERNAME.github.io

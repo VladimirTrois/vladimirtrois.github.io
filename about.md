@@ -4,42 +4,28 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Ingénieur en informatique <strong>passionné</strong>, <strong>polyvalent</strong> et <strong>autonome</strong>.</p>
+<p>Je suis actuellement en recherche d'opportunités sur Nantes et périphérie. Je développe depuis 2021 une application de gestion de commande en Symfony/API platform pour le back et VueJS pour le front. Le tout est déployé sous docker.</p>
 
 <h2>Skills</h2>
-
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Tests)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>PHP - Symfony - API Platform</li>
+	<li>Typescript - Javascript - VueJs - Nuxt</li>
+	<li>TailwindCSS</li>
+	<li>Git - Docker</li>
+	<li>MySQL - PostgreSQL - MongoDB</li>
+	<li>Java - Kafka - Kafka Streams</li>
+	<li>PHPUnit - Vitest</li>
 </ul>
 
-<h2>Projects</h2>
-
+<h2>Mes projet actuel</h2>
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/VladimirTrois/brorder-front">Brorder - Partie front sous NuxtJS</a></li>
+	<li><a href="https://github.com/VladimirTrois/brorder-back">Brorder - Partie back sous API platform</a></li>
+</ul>
+
+<h2>Ancien projets</h2>
+<ul>
+	<li><a href="https://github.com/VladimirTrois/kafka-tweet-prediction">2020: Application sous Kafka pour récupérer et analyser la tendances de tweets</a></li>
+	<li><a href="https://github.com/VladimirTrois/symfony_test">2018: Application de check-in de bière en symfony</a></li>
 </ul>
