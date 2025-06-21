@@ -85,12 +85,12 @@ J'ai aussi fait quelques petites modifications pour obtenir quelque chose qui me
 
 <div class="side-by-side">
     <div class="toleft">
-        <a href="https://www.keyboard-layout-editor.com/#/gists/8fd687f396e1992058c0c920122a8775" target="_blank"> <img class="image" src="{{ site.url }}/assets/images/corne/cornev2-gauche.png" alt="V2 gauche"> </a>
+        <a href="https://www.keyboard-layout-editor.com/#/gists/a99d3845e03803e2501171932458b55d" target="_blank"> <img class="image" src="{{ site.url }}/assets/images/corne/cornev2-gauche.png" alt="V2 gauche"> </a>
         <figcaption class="caption">Main gauche</figcaption>
     </div>
 
     <div class="toright">
-        <a href="https://www.keyboard-layout-editor.com/#/gists/8fd687f396e1992058c0c920122a8775" target="_blank"> <img class="image" src="{{ site.url }}/assets/images/corne/cornev2-droit.png" alt="V2 droit"> </a>
+        <a href="https://www.keyboard-layout-editor.com/#/gists/a99d3845e03803e2501171932458b55d" target="_blank"> <img class="image" src="{{ site.url }}/assets/images/corne/cornev2-droit.png" alt="V2 droit"> </a>
         <figcaption class="caption">Main droite</figcaption>
     </div>
 </div>
