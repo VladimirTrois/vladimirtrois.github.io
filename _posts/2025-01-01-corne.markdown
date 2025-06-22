@@ -1,7 +1,7 @@
 ---
 title: Clavier Corne
 layout: post
-date: 2025-01-01 00:00
+date: 2025-06-01 00:00
 image: /assets/images/corne.jpg
 headerImage: false
 projects: Corne
@@ -32,7 +32,7 @@ Le clavier est un 6x3 touches + 6 touches de pouce + 2 encodeurs rotatifs.
 
 L'objectif est d'améliorer la rapidité et le confort en ne déplaçant que très peu les poignets et en évitant les mouvements éloignés le plus possible. (Bien évidemment, la configuration dépend aussi du plaisir de son utilisateur.)
 
-La disposition principale est BÉPO conçue pour la langue française (équivalent anglais: DVORAK).
+La disposition principale est [BÉPO](https://fr.wikipedia.org/wiki/B%C3%A9po) conçue pour la langue française (équivalent anglais: DVORAK).
 
 Ce clavier fonctionne avec différents layout accessibles en fonction des touches maintenues qui sont le plus souvent les touches accessibles lors de la position au repos :
 
@@ -101,3 +101,7 @@ J'ai aussi fait quelques petites modifications pour obtenir quelque chose qui me
 - ✓ Je peux backspace et supp de la main gauche unquement.
 
 Alors certes, il y a sûrement mieux et plus optimisé. Pour le moment, cela me convient et je sais que j'ai des redondances qui pourront être enlevé pour mettre d'autres choses.
+
+Pour les connaisseurs n'hésitez pas à proposer des améliorations.
+
+Pour ceux qui sont intéréssé par la config voici le [fichier .keymap](https://github.com/VladimirTrois/zmk-config/blob/master/config/boards/shields/corny/corny.keymap). 

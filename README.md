@@ -2,9 +2,10 @@
 
 https://vladimirtrois.github.io/
 
-###### Indigo theme
+
+###### Forked From
 - https://github.com/sergiokopplin/indigo
 
-## License
+###### License
 
 [MIT](https://kopplin.mit-license.org/) License © Sérgio Kopplin
