@@ -16,7 +16,7 @@ description: Création d'un site de gestion de produits
 
 Projet réalisé avec Kafka et Kafka Streams.
 
-Le but est de récupérer le flux twitter en selectionnant les tweets qui ont un hashtag spécifique tel que IA,Java,Tech,etc puis d'afficher des métriques en temps réel. Par exemple le nombre de tweet chaque seconde, les thèmes les plus retweet, etc.
+Le but est de récupérer le flux twitter en sélectionnant les tweets qui ont un hashtag spécifique tel que IA,Java,Tech,etc puis d'afficher des métriques en temps réel. Par exemple le nombre de tweets chaque seconde, les thèmes les plus retweet, etc.
 
 - Connexion a twitter [repo](https://github.com/VladimirTrois/kafka-connect-twitter)
 - Passage dans un Kafka Streams pour filtrer [repo](https://github.com/VladimirTrois/kafka-twitter-filter)

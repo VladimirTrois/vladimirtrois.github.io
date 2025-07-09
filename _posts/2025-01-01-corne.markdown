@@ -100,8 +100,8 @@ J'ai aussi fait quelques petites modifications pour obtenir quelque chose qui me
 - ✓ Je peux mieux utiliser les chiffres et la suppression en même temps.
 - ✓ Je peux backspace et supp de la main gauche unquement.
 
-Alors certes, il y a sûrement mieux et plus optimisé. Pour le moment, cela me convient et je sais que j'ai des redondances qui pourront être enlevé pour mettre d'autres choses.
+Alors certes, il y a sûrement mieux et plus optimisé. Pour le moment, cela me convient et je sais que j'ai des redondances qui pourront être enlevées pour mettre d'autres choses.
 
-Pour les connaisseurs n'hésitez pas à proposer des améliorations.
+Pour les connaisseurs, n'hésitez pas à proposer des améliorations.
 
 Pour ceux qui sont intéréssé par la config voici le [fichier .keymap](https://github.com/VladimirTrois/zmk-config/blob/master/config/boards/shields/corny/corny.keymap). 

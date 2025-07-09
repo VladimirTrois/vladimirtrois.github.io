@@ -24,24 +24,22 @@ Un utilisateur doit pouvoir se connecter en utilisant son e-mail et son mot de p
 
 Un utilisateur doit pouvoir créer un compte avec un e-mail et un mot de passe :
 * l'e-mail doit être unique et être valide
-* MDP: 12 caractère minimum, 1 Lettre minuscule, 1 Majuscule, 1 chiffre, 1 caractère spécial
+* MDP: 12 caractères minimum, 1 lettre minuscule, 1 majuscule, 1 chiffre, 1 caractère spécial
 
-L'utilisateur se retrouve sur une page indiquant le nombre total de bières qu'il a bu ainsi
-que le nombre de référence unique
+L'utilisateur se retrouve sur une page indiquant le nombre total de bières qu'il a bu ainsi que le nombre de référence unique.
 
-Un utilisateur a la possibilité d'ajouter une bière a sa checklist de bière consommée.
+Un utilisateur a la possibilité d'ajouter une bière à sa checklist de bière consommée.
 Pour choisir une biere, l'utilisateur dispose d'un champ de recherche dans lequel
 il rentre le nom de la bière ou de la brasserie.
 
 Une liste des différentes bières, correspondant a la recherche est remontée,
-l'utilisateur peut cliquer sur une bière pour voir plus de détails et ajouter
-cette bière a sa liste.
+l'utilisateur peut cliquer sur une bière pour voir plus de détails et ajouter cette bière a sa liste.
 Lorsqu'il ajoute cette bière, il peut :
 * Donner une note entre 0 et 10
 * Ajouter le revendeur
 * Indiquer le type de service
 
-Un utilisateur doit pouvoir ajouter une biere s'il ne trouve pas cette bière dans la liste.
+Un utilisateur doit pouvoir ajouter une bière s'il ne trouve pas cette bière dans la liste.
 Un utilisateur doit pouvoir ajouter une brasserie s'il ne trouve pas cette brasserie dans la liste.
 Un utilisateur doit pouvoir ajouter un revendeur s'il ne trouve pas ce revendeur dans la liste.
 
@@ -106,8 +104,7 @@ Un revendeur dispose de plusieurs références de bière.
 #### Checklist
 
 Une checklist appartient à un utilisateur.
-Elle contient une référence vers une bière
-ainsi qu'une référence vers le revendeur.
+Elle contient une référence vers une bière ainsi qu'une référence vers le revendeur.
 
 * Note (flottant entre 0 et 10)
 * Service (pression, bouteille, canette)
