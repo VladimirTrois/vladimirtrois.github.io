@@ -1,7 +1,7 @@
 ---
 title: Clavier Corne
 layout: post
-date: 2025-06-01 00:00
+date: 2025-01-01 00:00
 image: /assets/images/corne.jpg
 headerImage: false
 projects: Corne

@@ -13,7 +13,7 @@ description: Création d'un site de gestion de produits
 
 ## Description:
 
-Projet réalisé pour apprendre symfony.
+Projet réalisé avec symfony.
 
 Lien du [repo](https://github.com/VladimirTrois/symfony_test)
 

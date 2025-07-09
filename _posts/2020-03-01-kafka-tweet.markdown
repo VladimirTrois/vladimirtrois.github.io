@@ -14,9 +14,9 @@ description: Création d'un site de gestion de produits
 
 ## Description
 
-Projet réalisé pour monter en compétences sur Kafka et Kafka Streams.
+Projet réalisé avec Kafka et Kafka Streams.
 
-Le but du projet est de récupérer le flux twitter en selectionnant les tweets basé sur l'informatique (IA,Techno,etc) et d'afficher des statisques tel que le nombre de tweet chaque seconde, les thèmes les plus retweet, etc.
+Le but est de récupérer le flux twitter en selectionnant les tweets qui ont un hashtag spécifique tel que IA,Java,Tech,etc puis d'afficher des métriques en temps réel. Par exemple le nombre de tweet chaque seconde, les thèmes les plus retweet, etc.
 
 - Connexion a twitter [repo](https://github.com/VladimirTrois/kafka-connect-twitter)
 - Passage dans un Kafka Streams pour filtrer [repo](https://github.com/VladimirTrois/kafka-twitter-filter)

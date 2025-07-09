@@ -1,0 +1,40 @@
+---
+title: Brorder Refonte
+layout: post
+date: 2025-05-01 00:00
+image: /assets/images/markdown.jpg
+headerImage: false
+projects: Brorder
+tag:
+hidden: false
+category: blog
+author: vladimir trois
+description: Création d'un site de gestion de commandes
+---
+
+Après avoir développé et maintenue une application de gestion de commande avec symfony 5.4 j'ai décidé de faire une refonte totale avec API Platform et Nuxt.
+
+L'application est développé pour un camping.
+
+#### Objectifs
+
+##### Client
+- Il effectue une commande la veille pour le lendemain sans se connecter.
+- Il est identifié par un nom et un numéro d'emplacement (1 lettre + 2 chiffres) qu'il remplit lui-même.
+- Il peut modifier sa commande en mettant le même nom et le même emplacement.
+
+##### Admin
+- L'admin doit pouvoir gérer les commandes (CRUD).
+- L'admin doit pouvoir gérer les produits (CRUD).
+- L'admin a accès aux commandes du jour et peux marquer la commande une fois vendue, il peut aussi la recommander pour le lendemain.
+- L'admin a accès a la liste des commandes pour le lendemain.
+- L'adimn a accès aux statistiques du nombre de produits vendus.
+- La gestion du stock de chaque produit peut être automatique (choix de l'admin).
+
+### Back end
+
+Réalisé avec API Platform et Symfony : [Repo github](https://github.com/VladimirTrois/brorder-back)
+
+### Front end
+
+Réalisé avec Nuxt : [Repo github](https://github.com/VladimirTrois/brorder-front)
