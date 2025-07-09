@@ -12,11 +12,11 @@ author: vladimir trois
 description: Création d'un site de gestion de commandes
 ---
 
-Après mes différents projets pour un camping, je suis en développement d’une solution destiné à tout camping.
+Après mes différents projets pour un camping, je suis en développement d’une solution destinée à tout camping.
 
 Les objectifs évolueront aux fur et à mesures du développement.
 
-Le projets sera développé avec Symfony et Nuxt en architecture microservices avec docker.
+Le projet est développé avec Symfony et Nuxt en architecture microservices sous docker.
 
 #### Objectifs
 
@@ -27,11 +27,11 @@ Le projets sera développé avec Symfony et Nuxt en architecture microservices a
 - Le client peut consulter les produits de l'établissement.
 - Le client peut voir ses anciennes commandes et recommander.
 - Il peut recevoir un rappel la veille ou le jour de la commande.
-- Il peut effectuer plusieurs commandes sur des jours diifférents.
+- Il peut effectuer plusieurs commandes sur des jours différents.
 
 ##### Admin
-- Différents rôles (manager, vendeur, etc)
-- En fonction du rôle : gestion des rôles, gestion des articles, des commandes, du stock ou des campings si plusieurs camping sont dans le même groupe.
+- Différents rôles (manager, vendeur, ...)
+- En fonction du rôle : gestion des rôles, gestion des articles, des commandes, du stock ou des campings si plusieurs campings sont dans le même groupe.
 - Gestion de la plage de vente de l'article.
 - Stock automatique des articles.
 - Accès aux statistiques des articles. 
