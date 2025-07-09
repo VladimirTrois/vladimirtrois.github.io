@@ -1,9 +1,9 @@
 ---
-title: Beer Checklist
+title: Beer Check-In
 layout: post
 image: /assets/images/markdown.jpg
 headerImage: false
-projects: Beer Checklist
+projects: Beer Check-In
 tag:
 hidden: false
 category: blog

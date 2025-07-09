@@ -27,6 +27,7 @@ Le projets sera développé avec Symfony et Nuxt en architecture microservices a
 - Le client peut consulter les produits de l'établissement.
 - Le client peut voir ses anciennes commandes et recommander.
 - Il peut recevoir un rappel la veille ou le jour de la commande.
+- Il peut effectuer plusieurs commandes sur des jours diifférents.
 
 ##### Admin
 - Différents rôles (manager, vendeur, etc)

@@ -18,14 +18,18 @@ layout: page
 	<li>Java - Kafka - Kafka Streams</li>
 </ul>
 
-<h2>Projets réalisés</h2>
-<ul>
-	<li><a href="https://github.com/VladimirTrois/brorder-front">Brorder - Partie front sous NuxtJS</a></li>
-	<li><a href="https://github.com/VladimirTrois/brorder-back">Brorder - Partie back sous API platform</a></li>
-</ul>
+<h2>Mes projets</h2>
 
-<h2>Ancien projets</h2>
-<ul>
-	<li><a href="https://github.com/VladimirTrois/kafka-tweet-prediction">2020: Application sous Kafka pour récupérer et analyser la tendances de tweets</a></li>
-	<li><a href="https://github.com/VladimirTrois/symfony_test">2018: Application de check-in de bière en symfony</a></li>
-</ul>
+<h3>En cours</h3>
+
+- [Projet Campain sous Symfony et Nuxt ](/campain)
+
+<h3>Récents</h3>
+
+- [Broder](/brorder) - [Repo partie back sous API platform](https://github.com/VladimirTrois/brorder-back)
+- [Broder](/brorder) - [Repo partie front sous Nuxt](https://github.com/VladimirTrois/brorder-front)
+
+<h3>Archivés</h3>
+
+- [2020: Dashboard en temps réel avec Kafka](/kafka-tweet)
+- [2018: Check-in de bière en symfony](/checkinbeer)

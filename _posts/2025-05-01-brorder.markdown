@@ -12,7 +12,7 @@ author: vladimir trois
 description: Création d'un site de gestion de commandes
 ---
 
-Après avoir développé et maintenue une application de gestion de commande avec symfony 5.4 j'ai décidé de faire une refonte totale avec API Platform et Nuxt.
+Après avoir développé et maintenue une application de gestion de commande, j'ai décidé de faire une refonte totale avec API Platform et Nuxt.
 
 L'application est développé pour un camping.
 
@@ -28,7 +28,7 @@ L'application est développé pour un camping.
 - L'admin doit pouvoir gérer les produits (CRUD).
 - L'admin a accès aux commandes du jour et peux marquer la commande une fois vendue, il peut aussi la recommander pour le lendemain.
 - L'admin a accès a la liste des commandes pour le lendemain.
-- L'adimn a accès aux statistiques du nombre de produits vendus.
+- L'admin a accès aux statistiques du nombre de produits vendus.
 - La gestion du stock de chaque produit peut être automatique (choix de l'admin).
 
 ### Back end
