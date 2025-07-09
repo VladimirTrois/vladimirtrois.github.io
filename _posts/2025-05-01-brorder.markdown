@@ -16,16 +16,19 @@ Après avoir développé et maintenu une application de gestion de commande, j'a
 
 L'application est développée pour un camping.
 
+Une démo est disponible juste [ici](https://monpain.duckdns.org/) <br/>
+Avec la partie admin [ici](https://monpain.duckdns.org/admin) (username: admin / mdp: copain)
+
 #### Objectifs
 
 ##### Client
-- Il effectue une commande la veille pour le lendemain sans se connecter.
+- Il peut faire une commande la veille pour le lendemain sans se connecter.
 - Il est identifié par un nom et un numéro d'emplacement (1 lettre + 2 chiffres) qu'il remplit lui-même.
 - Il peut modifier sa commande en mettant le même nom et le même emplacement.
 
 ##### Admin
 - L'admin doit pouvoir gérer les commandes (CRUD).
-- L'admin doit pouvoir gérer les produits (CRUD).
+- L'admin doit pouvoir gérer les produits (CRU).
 - L'admin a accès aux commandes du jour et peux marquer la commande une fois vendue, il peut aussi la recommander pour le lendemain.
 - L'admin a accès à la liste des commandes pour le lendemain.
 - L'admin a accès aux statistiques du nombre de produits vendus.
