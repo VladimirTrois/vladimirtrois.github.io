@@ -1,6 +1,6 @@
 # main text of home
 title: Vladimir Trois
-bio: Développeur FullStack
+bio: Ingénieur et développeur Informatique
 
 # twitter summary info
 description: Presentation
@@ -45,7 +45,7 @@ email: vladimir.trois@gmail.com
 authors:
   vladimir:
     name: Vladimir Trois
-    bio: Développeur FullStack
+    bio: Ingénieur et développeur Informatique
     external-image: false
     picture: assets/images/profile.jpg
 
